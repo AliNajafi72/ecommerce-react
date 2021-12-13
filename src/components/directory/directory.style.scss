@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.directory {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding: 5rem;
+}
